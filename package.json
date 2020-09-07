@@ -1,0 +1,19 @@
+{
+  "name": "lxj-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxiaojun666/lxj-pages.git"
+  },
+  "author": "lxj_web@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxiaojun666/lxj-pages/issues"
+  },
+  "homepage": "https://github.com/liuxiaojun666/lxj-pages#readme"
+}
